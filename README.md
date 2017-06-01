@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is:Malan  
 
-I like to:
+I like to: code,read and watch movies 
 
-I'm learning:
+I'm learning: Python,Web development through Lambda school
 
 ```
 
